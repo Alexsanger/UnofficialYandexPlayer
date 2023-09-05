@@ -7,7 +7,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Alexsanger/PythonYMPlayer/blob/main/screen/2.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/Alexsanger/UnofficialYandexPlayer/blob/main/screen/2.png" alt="project-screenshot" width="400" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
